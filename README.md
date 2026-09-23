@@ -1,4 +1,17 @@
+# 💫 Hi 👋, I'm sandeep yadav
+**A passionate web developer || python backend || frontend devloper**
 
+Email Me 👉 ✉️ **sy5211647@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**full stack development
+- 🌱 **I’m currently learning:** Python
+- 👯 **I’m looking to collaborate on:** school Managment System
+- 🤔 **I’m looking for help with:** full stack devloper
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sy5211647@gmail.com
+- 😄 **Pronouns:** sandeep
+- ⚡ **Fun fact:** I Love Coding and new Teach
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofsaim07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep Yadav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@radheshayamdevine26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sy5211647@gmail.com) 
 
@@ -13,3 +26,6 @@
 [![](https://komarev.com/ghpvc/?username=sy5211647-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
